@@ -1,8 +1,9 @@
 # safeprosper
 to manage safely your personal finances
-Developped by Joan Mouba for the account of Sunesis Center, 
-an organization helping family to live happy by applying the 
-wisdom of wise decision, including mariage, children education, 
-family finances, etc. 
+Initiated by Joan Mouba for Sunesis Center. 
+An organization helping family to live happy by applying the 
+wisdom of wise decisions, including mariage, children education, 
+relationshipds, family finances, etc. 
 
-Joan Mouba 2020.
+Joan Mouba and Liliane Mouba, Sunesis Center.
+June 18th, 2020. 
